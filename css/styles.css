@@ -1,0 +1,13 @@
+.round-btn{
+    border: 1px solid #ddd;
+    background-color: #ccc;
+    border-radius: 50px;
+    font-size: 20px;
+    padding: 0px;
+    width: 40px;
+    height: 40px;
+}
+
+.round-btn:hover{
+    background-color: #eee;
+}
