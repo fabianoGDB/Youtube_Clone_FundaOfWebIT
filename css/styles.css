@@ -1,3 +1,7 @@
+html, body{
+    font-family: Roboto, serif;
+}
+
 .round-btn{
     border: 1px solid #ddd;
     background-color: #ccc;
@@ -10,4 +14,20 @@
 
 .round-btn:hover{
     background-color: #eee;
+}
+
+.logo{
+    width: 130px;
+}
+
+.yt-search-bar .form-control{
+    border-radius: 50px;
+    border: 1px solid #b1aba1;
+}
+
+
+.yt-search-bar .input-group-text{
+    border-radius: 50px;
+    border: 1px solid #b1aba1;
+    font-size: 24px;
 }
